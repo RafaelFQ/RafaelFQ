@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael Artur, sou Brasileiro, natural de Recife - PE.</p>
+<p align="left">Sou Brasileiro, natural de Recife - PE.</p>
 
 ###
 
