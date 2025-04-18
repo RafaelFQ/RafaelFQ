@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑🏻‍💻 Atualmente, trabalho como Técnico em Edificações com ênfase em Projetos Estruturais.<br>🎯 Meu objetivo é realizar a transição de carreira.<br>📚 Atualmente, estou cursando Bacharelado em Engenharia de Software.<br>✨ Além da faculdade, me dedico ao estudo de Inglês e Linguagens de Programação, como Java por exemplo.<br>🎲 Nas minhas horas livres, aproveito para jogar no PC e curtir Rock & Metal.</p>
+<p align="left">🧑🏻‍💻 Atualmente, trabalho como Técnico em Edificações com ênfase em Projetos Estruturais.<br>🎯 Meu objetivo é realizar a transição de carreira. Em busca de uma oportunidade de estágio para iniciar minha carreira em Tecnologia.<br>📚 Atualmente, estou cursando Bacharelado em Engenharia de Software.<br>✨ Além da faculdade, me dedico ao estudo de Inglês e Linguagens de Programação, como Java por exemplo.<br>🎲 Nas minhas horas livres, aproveito para jogar no PC e curtir Rock & Metal.</p>
 
 ###
 
